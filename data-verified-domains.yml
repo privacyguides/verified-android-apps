@@ -12,6 +12,15 @@ domains:
           - 6F:D3:5A:F2:73:FF:DC:AB:30:5A:17:14:55:66:DD:E1:E1:D1:F2:CA:24:15:A8:BA:AE:E8:A6:51:28:E4:D0:DE
           - 77:6F:86:9A:03:A0:25:4C:B5:C9:3E:87:21:84:11:8A:58:F7:49:A0:0E:B4:60:E8:07:C1:13:6F:E5:5B:75:7E
           - AA:9F:1D:13:D2:10:C2:6E:32:52:A4:AD:76:71:FE:AB:A8:57:5A:3D:AF:30:03:B4:A0:26:E8:06:20:02:BF:68
+  - domain: accrescent.app
+    method: https
+    issue:
+      - GH-3737
+    checked: "2026-07-27T05:45:24Z"
+    packages:
+      - package: app.accrescent.client
+        fingerprints:
+          - 06:7A:40:C4:19:3A:AD:51:AC:87:F9:DD:FD:EB:B1:5E:24:A1:85:0B:AB:FA:48:21:C2:8C:5C:25:C3:FD:C0:71
   - domain: aidungeon.com
     method: https
     issue:
