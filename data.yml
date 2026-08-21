@@ -5003,6 +5003,19 @@ packages:
             issue: GH-2157
             apk:
               sha256: cecec5d8d386a8d02f41cd871b7e5d5fd0bbd3815dc9b62befc03dc64b8cb888
+  - package: com.raiiware.forcestophelper
+    signature:
+      - fingerprint: CE:F2:1A:F3:54:DB:78:40:34:61:A8:D2:A1:FB:5A:1E:04:D7:69:93:25:FB:B6:3A:27:C3:D4:D2:8C:ED:4F:EB
+        sources:
+          - name: Direct APK Link
+            issue: GH-4610
+            apk:
+              sha256: fc2ac337e2536a7a5d745e8b6503116cd3742b7e55e40c70b53e6b5750d52b3b
+              link: https://codeberg.org/raiiware/ForceStopHelper/releases/download/v0.13.0/com.raiiware.forcestophelper_14.apk
+          - name: F-Droid
+            issue: GH-4610
+            apk:
+              sha256: fc2ac337e2536a7a5d745e8b6503116cd3742b7e55e40c70b53e6b5750d52b3b
   - package: com.razeeman.util.simpletimetracker
     signature:
       - fingerprint: 9F:22:41:EA:F7:8B:E6:B8:41:5F:2D:B4:24:EF:99:C9:74:55:76:FE:07:B0:E5:8B:08:C9:22:28:9A:36:33:E4
