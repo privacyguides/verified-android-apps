@@ -8447,6 +8447,19 @@ packages:
             issue: CB-84
             apk:
               sha256: 661400f4bfd6f18df48d559b2d9ac3384678076b420f8ff32efdf715c364fecc
+  - package: marto.rtl_tcp_andro
+    signature:
+      - fingerprint: 00:0F:4F:FF:70:CA:CA:D5:02:BB:35:3F:7F:E0:49:68:2D:93:75:F7:F9:EB:CA:8D:75:40:22:A9:D6:2A:A0:48
+        sources:
+          - name: Direct APK Link
+            issue: GH-4617
+            apk:
+              sha256: b3ee28fea39e2ccb1a7f0711df835c0a890b847f91f13274ac981ad15ad0c16e
+              link: https://github.com/signalwareltd/rtl_tcp_andro-/releases/download/v3.16/app-release.apk
+          - name: Google Play
+            issue: GH-4617
+            apk:
+              sha256: 7d7a6c0403465146298b35ccf2c70ff2c969e6b2707193e0d8a28f4f8e55cfdc
   - package: md.obsidian
     signature:
       - fingerprint: F6:EE:C9:88:E3:6E:ED:4E:91:65:B5:B4:BF:20:83:EC:1B:1C:F2:66:11:FA:BB:01:DB:4D:4A:A7:57:35:D9:99
