@@ -484,6 +484,15 @@ domains:
         fingerprints:
           - 40:5C:6B:D2:CA:7C:3A:AE:8F:46:3C:6F:8B:55:BC:F0:DD:AC:43:1C:5E:D8:EA:FF:65:D1:06:C9:81:7A:20:7F
     dnssec: true
+  - domain: privacynotes.app
+    method: https
+    issue:
+      - GH-4821
+    checked: "2026-08-24T08:04:35Z"
+    packages:
+      - package: app.privacynotes
+        fingerprints:
+          - 98:A0:BB:5A:AF:69:4F:6B:EA:50:AD:CB:4A:36:D4:B5:7A:3C:3E:42:F6:7A:FF:08:FB:EA:46:89:69:6C:AA:87
   - domain: proton.me
     method: https
     issue:
