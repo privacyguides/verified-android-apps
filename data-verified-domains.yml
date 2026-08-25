@@ -12,6 +12,15 @@ domains:
           - 6F:D3:5A:F2:73:FF:DC:AB:30:5A:17:14:55:66:DD:E1:E1:D1:F2:CA:24:15:A8:BA:AE:E8:A6:51:28:E4:D0:DE
           - 77:6F:86:9A:03:A0:25:4C:B5:C9:3E:87:21:84:11:8A:58:F7:49:A0:0E:B4:60:E8:07:C1:13:6F:E5:5B:75:7E
           - AA:9F:1D:13:D2:10:C2:6E:32:52:A4:AD:76:71:FE:AB:A8:57:5A:3D:AF:30:03:B4:A0:26:E8:06:20:02:BF:68
+  - domain: adityarajput.co
+    method: https
+    issue:
+      - GH-4860
+    checked: "2026-08-25T07:17:49Z"
+    packages:
+      - package: co.adityarajput.notifilter
+        fingerprints:
+          - 56:0A:30:9B:4F:01:AC:3D:28:65:EA:C6:E3:C3:35:59:EC:C7:E9:AD:8E:A7:9E:CD:58:D2:56:B4:B6:45:8A:0E
   - domain: aidungeon.com
     method: https
     issue:
